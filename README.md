@@ -29,9 +29,9 @@ The cool part is the LED display that shows the output level. As the voltage ris
 |   1 | H1 | 9-pin female header | 10-pin works if you remove a pin
 |   2 | J1, J2 | Thonkiconn jacks |
 |   1 | J4 | 10-pin shrouded header | Use nonpolarized header at your own risk
-|   2 |  | 7/16" 4-40 female standoffs | McMaster part 91780A431
-|   4 |  | 1/4" 4-40 screws | McMaster part 92949A106
-|   2 |  | Knobs | McMaster part 6332K42
+|   2 |  | 7/16" 4-40 female standoffs | McMaster part [91780A431](https://www.mcmaster.com/91780A431/)
+|   4 |  | 1/4" 4-40 screws | McMaster part [92949A106](https://www.mcmaster.com/92949A106/)
+|   2 |  | Knobs | McMaster part [6332K42](https://www.mcmaster.com/6332K42/)
 
 ## License
 
