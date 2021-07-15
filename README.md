@@ -1,5 +1,7 @@
 # Affine
 
+![](Affine.jpg)
+
 Affine is a 4HP utility module for amplifying, attenuating, inverting, and offsetting a CV signal. Think of it like `f(x) = ±a*x + b`, where `0 < a < 2` and `-12 < b < 12`. The scale knob controls the level of the input from 0 to 2x. The invert switch inverts the input. The offset knob adds an offset from -12V to +12V. That's about it.
 
 The cool part is the LED display that shows the output level. As the voltage rises above 0, the LEDs in the top half gradually turn on. Same for the bottom half. It isn't calibrated or anything, but it can give you an idea of what is being output.
