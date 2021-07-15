@@ -33,6 +33,11 @@ The cool part is the LED display that shows the output level. As the voltage ris
 |   4 |  | 1/4" 4-40 screws | McMaster part [92949A106](https://www.mcmaster.com/92949A106/)
 |   2 |  | Knobs | McMaster part [6332K42](https://www.mcmaster.com/6332K42/)
 
+## Build recommendations
+
+* The LEDs are the hardest part. Solder the pots and jacks before the LEDs. Then slip the LEDs into the holes and attach the front panel using the nuts of the pots and jacks. Arrange all of the LEDs in the rectangular opening, so that they are slightly proud of the panel. Solder one leg of each LED. Using something flat and hard, like the edge of another PCB, remelt the solder of each LED while gently pressing the LED into place. The flat tool will ensure that it moves to be exactly flush with the panel. After checking your work, solder the second leg of each LED.
+* Unless you get a toggle with extra long pins, they will probably not quite reach. Secure the toggle to the panel in the correct orientation, with the outside nut flush with the bushing. Attach the panel to the pots and jacks. Attach the main board to the control board with the standoffs. The pins of the toggle should be just a millimeter shy of the pads. You can bridge the gap with solder. This joint won't be as strong, but the other components make up for it.
+
 ## License
 
 * You are free to build this design, modify it, and use parts of it in other designs.
